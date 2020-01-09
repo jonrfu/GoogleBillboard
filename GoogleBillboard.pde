@@ -7,7 +7,7 @@ public void setup()
    if (isPrime(cNum)==true){
      println(cNum);
      break;
-   };
+   }
     
 }  
 }
